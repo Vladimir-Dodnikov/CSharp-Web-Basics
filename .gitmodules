@@ -1,0 +1,3 @@
+[submodule "CSharp-Web-Basics"]
+	path = CSharp-Web-Basics
+	url = https://github.com/Vladimir-Dodnikov/CSharp-Web-Basics.git
